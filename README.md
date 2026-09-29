@@ -102,12 +102,6 @@ The browser opens automatically at **http://localhost:8501**. If it doesn't, cop
 5. Use the other buttons for questions, talking points, a brief, or action items.
 6. Download any result as Markdown with the ⬇️ button.
 
-## Screenshots
-
-<!-- Add your screenshots here after running the app -->
-| Full Preparation | 5-Minute Brief |
-|---|---|
-| ![full prep](screenshots/full_prep.png) | ![brief](screenshots/brief.png) |
 
 ## Future Enhancements
 
@@ -120,7 +114,7 @@ The browser opens automatically at **http://localhost:8501**. If it doesn't, cop
 
 ## Author
 
-**[Your Name]** — BTech Student
+**[Divya mallapally]** — BTech Student
 Built as a beginner-friendly Generative AI project using Python, Streamlit, and Google Gemini.
 
 ## License
